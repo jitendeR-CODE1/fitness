@@ -191,8 +191,4 @@ def main():
             st.warning("Please complete both the Diet Planner and Exercise Planner to generate a report.")
 
 if __name__ == "__main__":
-<<<<<<< HEAD
     main()
-=======
-    main()
->>>>>>> c9f6d73 (Fixed indentation issues in Exercise modules)
