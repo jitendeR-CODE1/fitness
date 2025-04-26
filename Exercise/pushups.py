@@ -20,7 +20,7 @@ def calculate_angle(a, b, c):
     return angle
 
 # Pushup Counter App
-def run():
+def detect():
     st.title('Pushup Counter')
 
     uploaded_file = st.file_uploader("Upload a video", type=["mp4", "mov", "avi", "mkv"])
