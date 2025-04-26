@@ -18,7 +18,7 @@ def calculate_angle(a, b, c):
 
     return angle
 
-def run():
+def detect():
     st.title('Squat Counter')
 
     uploaded_file = st.file_uploader("Upload a video", type=["mp4", "mov", "avi", "mkv"])
