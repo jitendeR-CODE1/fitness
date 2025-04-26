@@ -189,6 +189,5 @@ def main():
                 st.warning("Please save diet plans for all meal times (Breakfast, Lunch, Snacks, Dinner) in the Diet Planner.")
         else:
             st.warning("Please complete both the Diet Planner and Exercise Planner to generate a report.")
-
 if __name__ == "__main__":
     main()
